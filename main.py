@@ -11,9 +11,9 @@ print(r"""
         \ | |_____  \ /   ' \/     |/   ' \ |      \
         | | |     \  |   _  |   _  |   _  | |   _  |    
         | | |     |  |  (_| |  (_| |  (_| | |  (_| |    
-___,,,__| | |     |  |\__,__|\__,__|\__,__| |___,__|
+___,,,__| | |     |  |\__,__|\__,__|\__,__| |___,__|"""
 
-                                    A FAKE LINUX ONLY FOR FUN BUT MANY TOOL WORK PROPERLY IN THIS SCRIPT """)
+                                  print("A FAKE LINUX ONLY FOR FUN BUT MANY TOOL WORK PROPERLY IN THIS SCRIPT")
 
 time.sleep(3.0)
 print("\n****************************************************************")
